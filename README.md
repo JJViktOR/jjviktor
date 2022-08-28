@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Victor
+## Olá! Eu sou o João Viktor
 
 - 🔭 Hoje trabalho em uma indústria Têxtil
 - 🌱 Estudando: JavaScript, HTML, CSS
